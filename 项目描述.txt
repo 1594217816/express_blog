@@ -1,0 +1,5 @@
+public 静态资源
+model 数据库操作
+route 路由
+views 模板
+app.js 项目入口文件
